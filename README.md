@@ -19,50 +19,30 @@
 #### A little more about me
 ```javascript
 const badri = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  pronouns: "She" | "Her",
+  code: ["Kotlin", "Python", "HTML", "CSS", "C++", "Swift", "Swift UI", "SQL Server and Developer"],
+  askMeAbout: ["databases", "frontend dev", "c++", "batch scripting"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
+      backend: ["Node.js", "JS"],
   }
 }
 ```
 
-#### My GitHub Data :octocat:
-> 🏆 420+ Contributions in the Year 2021
- > 
-> 📜 400+ Commits on GitHub
- > 
-> 🔑 200+ Contribution in Private Repos
- > 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-#### Popular Projects
-<a href="https://github.com/MrBlueBird2/to-do-list-flask">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
-</a>    
-<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
-</a>
-
-#### Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
-
-#### Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrBlueBird2&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrBlueBird2&layout=compact&theme=onedark" />
-</a>
-<br />
-<br />
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedark" alt="MrBlueBird2" />
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/damaris-esparza">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+        </a>
+        <a style="margin-left: 10px;" target="_blank" href=" https://github.com/yoshelyn223 ">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+        </a>
+		
 </p>
 
 #### Contribution Graph

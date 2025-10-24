@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Damaris Esparza</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=BC11BF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+and+Back+end+developer;I'm+a+competitive+programmer;I+Love+Coffee" /></a>
 </p>
 <p>I am a Computer Systems Engineering student, I love being a Frontend and Backend developer. I like to being upgraded on new topics and technologies</p>
 
@@ -13,7 +13,6 @@
   <li>❤️ I love designing new projects with Figma while drinking my lovely coffee.</li>
   <li>🌱 I’m currently learning Web Development, Android and iOS Development, C++, Java, Kotlin, Swift and Swift UI Python, SQL Server and Developer.</li>
   <li>💼 I'm a Front end Back Developer.</li>
-  <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
 </ul>
 
 #### A little more about me

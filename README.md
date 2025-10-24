@@ -38,7 +38,7 @@ const badri = {
         </a>
         <a style="margin-left: 10px;" target="_blank" href=" https://github.com/yoshelyn223 ">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/yoshelyn_223?igsh=ZWZqejMzd2w0ajc=">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
         </a>
 		

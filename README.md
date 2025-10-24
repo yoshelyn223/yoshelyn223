@@ -63,5 +63,5 @@ Reading                12 hrs 0 mins      ████████████�
 Getting lost in music  12 hrs 0 mins      ██████████████░░░░░░░░░░░   50.0%
 ```
 ------
-Credit: [MrBlueBird2]( https://github.com/yoshelyn223)
+Credit: [yoshelyn223]( https://github.com/yoshelyn223)
 Last Edited on: 23/10/2025.
